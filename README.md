@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @govindswamy26
-- 👀 I’m interested in programing
-- 🌱 I’m currently pursuing computer science engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi there! 👋
 
-<!---
-govindswamy26/govindswamy26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm @govindswamy26, a Computer Science Engineering student with a keen interest in programming. I'm always eager to learn new technologies and improve my skills.
+
+ 👀 Interests
+
+- Programming
+- Data Science
+- Full Stack Development
+- Algorithms
+
+🌱 Currently Learning
+
+- Advanced Java
+- Web Development
+- Data Science tools
+
+ 💞️ Looking to Collaborate On
+
+- Open Source Projects
+- Hackathons
+- Coding Competitions
+
+- Email: govindswamy567@gmail.com
+- LinkedIn: linkedin.com/in/govind-swamy-86875424b
+
+
