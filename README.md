@@ -6,12 +6,12 @@ I'm @govindswamy26, a Computer Science Engineering student with a keen interest 
 
 - Programming
 - Data Science
-- Full Stack Development
-- Algorithms
+- MERN Stack Development
+- Data Strctures & Algorithms
 
 🌱 Currently Learning
 
-- Advanced Java
+- React
 - Web Development
 - Data Science tools
 
@@ -22,6 +22,5 @@ I'm @govindswamy26, a Computer Science Engineering student with a keen interest 
 - Coding Competitions
 
 - Email: govindswamy567@gmail.com
-- LinkedIn: linkedin.com/in/govind-swamy-86875424b
 
 
